@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Bar,about to finish my 4th and last year as a computer science and bioinformatics student.
+I am Bar, and i am about to finish my 4th and last year as a computer science and bioinformatics student.
 Looking for my first full time job as proggrammer.
 
 - 🔭 I’m currently working at 'INTEL' - in a student position
