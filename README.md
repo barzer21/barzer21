@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I am Bar, a 4th year computer science and bioinformatics student.
+I am Bar,about to finish my 4th and last year as a computer science and bioinformatics student.
 Looking for my first full time job as proggrammer.
 
-- 🔭 I’m currently working on 'INTEL' - in student position
+- 🔭 I’m currently working at 'INTEL' - in a student position
 - 🌱 I’m currently diving into Deep Learning 
 - 💬 Ask me about anything
 - 📫 You can reach me on barzer21@gmail.com
